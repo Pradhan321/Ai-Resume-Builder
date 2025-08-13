@@ -25,4 +25,5 @@ A sleek, AI-powered resume builder built with **React**, **Tailwind CSS**, **Cle
 git clone https://github.com/Pradhan321/ai-resume-builder.git
 cd ai-resume-builder
 npm install
-![Workflow](image.png)
+![Workflow](C:\Users\AVINASH\Desktop\React-App\Ai-resume-Builder\image.png)
+![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
