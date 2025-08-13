@@ -21,6 +21,7 @@ A sleek, AI-powered resume builder built with **React**, **Tailwind CSS**, **Cle
 
 ## 📦 Installation
 
+```bash
 git clone https://github.com/Pradhan321/ai-resume-builder.git
 cd ai-resume-builder
 npm install
