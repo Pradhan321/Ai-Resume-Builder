@@ -20,9 +20,9 @@ A sleek, AI-powered resume builder built with **React**, **Tailwind CSS**, **Cle
 - **PDF Export**: react-to-print or html2pdf
 
 ## 📦 Installation
-
-```bash
 git clone https://github.com/Pradhan321/ai-resume-builder.git
 cd ai-resume-builder
 npm install
+
+## 📈 Workflow
 ![Workflow](https://github.com/Pradhan321/Ai-Resume-Builder/blob/main/image.png)
